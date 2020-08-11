@@ -88,4 +88,4 @@ def main_game(x):
     new_round()       
     main_game(players)
 
-main_game(players)
+#main_game(players)
